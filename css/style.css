@@ -48,7 +48,7 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
-  margin:5px;
+  width: 50%;
 }
 .small {
   size: 20%
