@@ -50,7 +50,6 @@ img:hover {
 .column {
   display: inline-block;
   width: 50%;
-  display: block;
 }
 .small {
   width: 50%
